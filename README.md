@@ -31,3 +31,9 @@ Using variables in the browser's inspector can be confusing when the number of C
   --xl: 1200px;
 }
 ```
+
+Now let's see the result:
+<div style="text-align: center;">
+  <img src="./browser-inspect.png" alt="categorizing css variables in browsers">
+</div>
+I hope it was useful for you 🌺
