@@ -1,7 +1,7 @@
 # Categorizing CSS variables 
-Categorizing CSS variables is not a new feature or best practice in CSS. You can't find anything about this title on the internet. It's only my own experience, and it may not be the right thing to do :)
+I would like to share with you a pretty funny trick that allows you to represent the CSS variables section in a more readable style. Just take into account that this is not a new feature or best practice in CSS variables. It's only an interesting idea which I come up with.
 
-Using variables in the browser's inspector can be confusing when the number of CSS variables increases. So I did a little trick using a variable name:
+Using variables in the browser's inspector can be confusing as the number of CSS variables gets increased. So to make it easier to read, here is my little trick, by using a variable name:
 
 ```css
 :root {
@@ -36,4 +36,5 @@ Now let's see the result:
 <div style="text-align: center;">
   <img src="./browser-inspect.png" alt="categorizing css variables in browsers">
 </div>
-I hope it was useful for you 🌺
+
+I hope you found it helpful 🌺
